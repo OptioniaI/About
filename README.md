@@ -1,4 +1,16 @@
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OptioniaI&title_color=ffffff&text_color=daf7dc&bg_color=151515"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=OptioniaI&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
-</p>
+<Progress
+  theme={{
+    success: {
+      symbol: '?‍',
+      color: 'rgb(223, 105, 180)'
+    },
+    active: {
+      symbol: '?',
+      color: '#fbc630'
+    },
+    default: {
+      symbol: '?',
+      color: '#fbc630'
+    }
+  }}
+/>
