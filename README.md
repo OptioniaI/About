@@ -1,16 +1,1 @@
-<Progress
-  theme={{
-    success: {
-      symbol: '?‍',
-      color: 'rgb(223, 105, 180)'
-    },
-    active: {
-      symbol: '?',
-      color: '#fbc630'
-    },
-    default: {
-      symbol: '?',
-      color: '#fbc630'
-    }
-  }}
-/>
+https://github-readme-stats.vercel.app/api?username=suyashpatil400&count_private=true&show_icons=true&theme=radical
