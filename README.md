@@ -1,2 +1,4 @@
-![0EE1CF4B-AA61-4E14-BE74-CF0DD4EDEB43](https://user-images.githubusercontent.com/95887974/175542450-ff392d70-32d2-44d8-8887-74fe91fbb00e.jpeg)
-# This is my about me and I am Hidden#5174 and I script for roblox. 📃 — And pretty much only know Lua.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Upbolt&title_color=ffffff&text_color=daf7dc&bg_color=151515"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Upbolt&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+</p>
