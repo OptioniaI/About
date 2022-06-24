@@ -1,7 +1,7 @@
-*.html linguist-detectable=false
-*.css linguist-detectable=false
-*.javascript linguist-detectable=false
-*.lua linguist-detectable=true
+html linguist-detectable=false
+css linguist-detectable=false
+javascript linguist-detectable=false
+lua linguist-detectable=true
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OptioniaI&title_color=ffffff&text_color=daf7dc&bg_color=151515"/>
